@@ -27,7 +27,7 @@ Follow the steps below.
 	
 	Note your Client ID (API Key). You will need it soon.
 
-1. [Follow the Configuration instructions in the User Auth UI guide](https://github.com/CreativeSDK/web-getting-started-samples/blob/master/user-auth-ui/guide/user-auth-ui.md#config)
+1. [Follow the Configuration instructions in the User Auth UI guide](https://github.com/CreativeSDK/web-getting-started-samples/blob/master/documentation/user-auth-ui.md#configuration)
 
 	You will use the `redirectims.html` file you create in the next section
 
